@@ -1,0 +1,10 @@
+Apartment number: 2
+Apartment floor: 2
+Number of rooms in the apartment: 2
+Residents of the apartment: Ivan 
+
+Apartment number: 3
+Apartment floor: 3
+Number of rooms in the apartment: 3
+Residents of the apartment: Nataly 
+
